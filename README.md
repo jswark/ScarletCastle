@@ -12,7 +12,7 @@ Tick-tock: a tale for two. <br/>
 
 |                          |                                   Description                                    | Puzzle Number |
 |--------------------------|:--------------------------------------------------------------------------------:| -----:|
-| **MainMenu**             |               Door unlocks when a player inputs correct password.                | 0 |
+| **MainMenu**             |              Choose start player -> spawn on right map.               | 0 |
 | **Password Door**        | Door unlocks when a player inputs correct password.|                                        1                                         |
 | **Pressure Plates**      |                 Door unlocks when a correct combination pressed.                 |                         2                          |
 | **Drag & Drop System**   |Allow drag and drop objects. Door unlocks when a player holds appropriate object. |    3 |
